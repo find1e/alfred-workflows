@@ -12,5 +12,5 @@ Alfred Workflows
  
 # Md5 
   * usage:
-  ![image](https://github.com/find1e/alfred-workflows/blob/master/img/md5_usecase.png)
+  ![image](https://github.com/find1e/alfred-workflows/blob/master/img/md5_usecase.jpg)
   
