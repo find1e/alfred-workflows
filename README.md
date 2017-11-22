@@ -9,3 +9,8 @@ Alfred Workflows
 # Timestamp Format 
   * usage:
   ![image](https://github.com/find1e/alfred-workflows/blob/master/img/ts_usecase.png)
+ 
+# Md5 
+  * usage:
+  ![image](https://github.com/find1e/alfred-workflows/blob/master/img/md5_usecase.jpg)
+  
